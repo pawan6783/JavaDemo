@@ -16,7 +16,7 @@ public class MissingNumber {
 		return total;
 	}
 	
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		MissingNumber mn = new MissingNumber();
 		Scanner sc = new Scanner(System.in);
